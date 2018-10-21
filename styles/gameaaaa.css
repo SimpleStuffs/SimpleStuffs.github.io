@@ -1,0 +1,19 @@
+@font-face {
+  src: url("/fonts/scp.otf");
+  font-family: "SCP";
+}
+body {
+  background-color: dodgerblue;
+  font-family: "SCP";
+}
+h1, h2, h3, h4, h5, h6 {
+  text-align: center;
+  color: red;
+}
+p {
+  color: red;
+}
+a {
+  text-decoration: none;
+  color: crimson;
+}
